@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Desmistificando a Educação Física</title>
+    <style>
+        /* Estilos de formatação */
+        h2 {
+            color: blue;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Desmistificando a Eduh1<Sobre a Barbearia Alura>h1
+
+p1 Localizada no coração da cidade a Barbearia Alura traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.
+
+Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
+
+Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+cação Física</h1>
+    <h2>(O que é educação física?)</h2>
+    <p>A educação física é uma área do conhecimento ligada às práticas corporais historicamente produzidas pela humanidade. É o processo pedagógico que visa à formação do homem capaz de conduzir-se plenamente em suas atividades. Trabalha num amplo sentido, visando a prevenção de determinadas doenças. É a área de atuação do profissional graduado em Educação Física (licenciatura e bacharelado). É um termo usado para designar tanto o conjunto de atividades físicas e exercícios físicos não competitivos e esportes com fins recreativos quanto a ciência que fundamenta a correta prática destas atividades, resultado de uma série de pesquisas e procedimentos estabelecidos.</p>
+</body>
+</html>
